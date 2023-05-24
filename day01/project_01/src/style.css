@@ -1,0 +1,20 @@
+button{
+  background-color:#ee6688;
+  color:white;
+  padding:10px 75px;
+  border-radius:10px;
+  border: solid grey;
+  align:center;
+}
+button:hover{
+  background-color:#446688;
+  color:pink;
+  padding:10px 75px;
+  border-radius:10px;
+  border: solid pink;
+  transition: 2s all;
+} 
+body {
+  background-color:yellow;
+  text-align:center;
+}
